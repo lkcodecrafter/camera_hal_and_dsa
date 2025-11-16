@@ -1,4 +1,4 @@
-============================
+```============================
 🟦 PART 1 — DSA: Two Pointers Pattern (Google Favorite)
 ============================
 ⭐ Simple Explanation
