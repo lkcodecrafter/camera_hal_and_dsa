@@ -1,0 +1,9 @@
+Questions to Practice
+
+Reverse array
+
+Check if array is palindrome
+
+Two-sum in sorted array
+
+Merge two sorted arrays
