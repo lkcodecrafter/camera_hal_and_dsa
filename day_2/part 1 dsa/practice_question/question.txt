@@ -1,0 +1,10 @@
+ Introduction to Sliding Window
+Sliding window helps in problems involving:
+
+Subarrays
+Consecutive sequences
+Longest/shortest window
+Two types:
+
+Fixed window (size = k)
+Variable window (expand + shrink)
